@@ -47,7 +47,7 @@ Real-world data analysis logic
 
 Clone this repository:
 
-git clone https://github.com/your-username/numpy-data-analysis.git
+git clone https://github.com/Bharathi14-VVIT/numpy-data-analysis.git
 
 
 Navigate to the project folder:
